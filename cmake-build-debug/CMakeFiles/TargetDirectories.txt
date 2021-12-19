@@ -1,0 +1,3 @@
+/home/daniil/Documents/Уч материалы СПбГУ/Учебная практика/Coursework5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/daniil/Documents/Уч материалы СПбГУ/Учебная практика/Coursework5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daniil/Documents/Уч материалы СПбГУ/Учебная практика/Coursework5/cmake-build-debug/CMakeFiles/dishonestCasino1.dir
